@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Bhumika Jadhav
 
-<!--
-**bhumikaj990/bhumikaj990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst | BCA Graduate
 
-Here are some ideas to get you started:
+I am a passionate about Data Analytics and IT.
+I enjoy working with data, creating meaningful visualizations, and solving problems using technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Technologies
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Microsoft Excel
+- 📈 Power BI
+- 📉 Tableau
+- 📋 Data Visualization
+- 🔄 Data Manipulation
+
+🚀 Featured Projects
+
+🏦 Bank Management System
+
+Technology: Python, MySQL
+A Python-based project developed to manage banking-related operations and improve my programming and problem-solving skills.
+
+📊 Data Analysis Projects
+
+Tools: Python, SQL, Excel, Power BI
+Projects focused on data analysis, data manipulation, and visualization.
+
+🎯 Career Goal
+
+I am looking for an opportunity to start my career in Data Analytics / IT, continuously learn new technologies, and contribute to a professional team.
+
+📚 Currently Learning
+
+- Advanced SQL
+- Data Analysis with Python
+- Power BI
+- Excel
+- Data Visualization
+
+📫 Connect With Me
+
+- LinkedIn :https://www.linkedin.com/in/bhumika-jadhav-947409380
