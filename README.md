@@ -1,44 +1,28 @@
-👋 Hi, I'm Bhumika Jadhav
+Hi, I'm Bhumika Jadhav 👋
 
-📊 Aspiring Data Analyst | BCA Graduate
+Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-I am a passionate about Data Analytics and IT.
-I enjoy working with data, creating meaningful visualizations, and solving problems using technology.
+I am a BCA graduate interested in Data Analytics and business problem-solving.
 
-🛠️ Skills & Technologies
+Skills
 
-- 🐍 Python
-- 🗄️ SQL
-- 📊 Microsoft Excel
-- 📈 Power BI
-- 📉 Tableau
-- 📋 Data Visualization
-- 🔄 Data Manipulation
+- SQL: Queries, JOINs, GROUP BY, data analysis
+- Python: Pandas, NumPy, Matplotlib, Seaborn
+- Excel: Formulas, Pivot Tables, charts, dashboards
+- Visualization: Power BI, Tableau
 
-🚀 Featured Projects
+Featured Projects
 
-🏦 Bank Management System
+- Hospital Data Analysis — SQL
+- Bookstore SQL Project
+- Excel Student Fees Dashboard
+- Python Projects
 
-Technology: Python, MySQL
-A Python-based project developed to manage banking-related operations and improve my programming and problem-solving skills.
+Career Goal
 
-📊 Data Analysis Projects
+I am looking for an entry-level Data Analyst opportunity where I can apply my analytical skills, learn from real-world data, and contribute to business decisions.
 
-Tools: Python, SQL, Excel, Power BI
-Projects focused on data analysis, data manipulation, and visualization.
+Connect With Me
 
-🎯 Career Goal
-
-I am looking for an opportunity to start my career in Data Analytics / IT, continuously learn new technologies, and contribute to a professional team.
-
-📚 Currently Learning
-
-- Advanced SQL
-- Data Analysis with Python
-- Power BI
-- Excel
-- Data Visualization
-
-📫 Connect With Me
-
-- LinkedIn :https://www.linkedin.com/in/bhumika-jadhav-947409380
+- LinkedIn: https://www.linkedin.com/in/bhumika-jadhav-947409380
+- GitHub: https://github.com/bhumikaj990
